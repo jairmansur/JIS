@@ -1,0 +1,198 @@
+/* Personalisacion de BODY*/
+body{
+    background-color: white;
+    margin: 0%;
+}
+
+/* Personalisacion de BOTONES */
+
+.boton_inicio{
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: Montserrat;
+    display: inline-block;
+}
+
+.boton_signup{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Montserrat;
+    border-top: 2px solid white;
+    display: inline-block;
+    margin-left: 65%;
+    position: absolute;
+}
+
+.boton_login{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Montserrat;
+    border-top: 2px solid white;
+    display: inline-block;
+    margin-left: 60%;
+    position: absolute;
+}
+
+.boton{
+    background-color: white;
+    color: green;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Montserrat;
+    border-bottom: 2px solid green;
+}
+
+
+/* Personalisacion de SUBCATEGORIAS */
+.Subcategoria{
+    margin: 7%;
+    padding: 2%;
+    background-color: green;
+    border-radius: 25px;
+    color: white;
+}
+
+/* Personalisacion GENERAL DE LA WEB*/
+
+.titulo{
+    padding: 2.5%;
+    background-color: green;
+    margin-bottom: 10px;
+}
+
+.footer{
+    padding: 2.5%;
+    background-color: darkgreen;
+    margin-bottom: 0px;
+}
+
+.prenda{
+    width: 90%;
+    margin-top: 1%;
+}
+
+/* Personalisacion de IMAGENES*/
+
+.logo{
+    width: 5%;
+    display: inline-block;
+    vertical-align: middle;  
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.foto_producto{
+    width: 20%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.foto_inicio{
+    width: 30%;
+    margin: 0%;
+    margin-top: 5%;
+    margin-left: 13%;
+    margin-bottom: 5%;
+    display: inline-block;
+}
+
+/* Personalisacion de TEXTOS*/
+
+#redessociales{
+    width: 43%;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+
+.texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+.texto_footer{
+    width: 48%;
+    margin-left: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+
+h2{
+    font-family: Montserrat;
+    color: white;
+}
+
+h1{
+    font-family: Montserrat;
+    color: white ;
+}
+
+.precio{
+    margin: 0%;
+    width: 15%;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+    font-weight: 500 ;
+}
+
+
+
+/* Personalisacion de LOGIN Y SING UP */
+#login{
+    margin: 7%;
+    padding: 2%;
+    background-color: green;
+    border-radius: 25px;
+}
+
+#signup{
+    margin: 7%;
+    padding: 2%;
+    background-color: green;
+    border-radius: 25px;
+}
+
+input{
+    width: 20%;
+    color: white;
+    background-color: green;
+    border: 0px solid green;
+    border-bottom: 2px solid white;
+}
+
+.somos{
+    padding: 1%;
+    margin: 2%;
+    border-radius: 10px;
+    border: solid 4px green;
+}
+
+.skere{
+    color: darkgreen;
+}
+
+.logito{
+    height: 100px;
+    width: 10%;
+}
