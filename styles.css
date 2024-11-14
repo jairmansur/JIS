@@ -196,3 +196,10 @@ input{
     height: 100px;
     width: 10%;
 }
+
+.busqueda{
+    background-color: white;
+    margin-left: 48%;
+    border-radius: 15px;
+    color: black;
+}
